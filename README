@@ -4,7 +4,7 @@ System for predicting basketball players' positions based on their statistics.
 
 Installing Requirements
 ========
-Unpack everything into some folder, and then
+Download everything to some folder and then:
 ```shell
 $ pip install -r requirements.txt
 ```
