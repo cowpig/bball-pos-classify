@@ -145,6 +145,7 @@ class NN:
         h = self.hypothesis
         y = mat(y_vals)
         assert shape(h) == shape(y)
+        print "DATACRATIC RULES"
         m = float(shape(h)[0])
         
         d_out = h - y
